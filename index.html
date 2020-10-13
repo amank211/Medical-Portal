@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+   <div class="fixed-header">
+        <div class="container">
+            <h1>Medical Portal</h1>
+            <h1 class = "mail"> mail:example@iitgoa.ac.in</h1>
+            <h1 class = "number"> 999-9999-999</h1>
+        </div>
+    </div>
+<div class = "login">
+   <img src="images/iit-goa_logo.png" alt="" class = "logo">
+    <form action="login.php" method="post">
+        <h1>Login</h1>
+        <input type="email" name = "email" placeholder="&#xf0e0; Email" style="font-family:Arial, FontAwesome">
+        <input type="password" name = "password" placeholder="&#xf023; Password" style="font-family:Arial, FontAwesome">
+        <select name = "loginas" class = "dropdown">
+        <option style="display: none" not selected>Login as</option>
+        <option value = "Doctor">Doctor</option>
+        <option value = "Student">Student</option>
+        <option value = "faculty">Faculty</option>
+        <option value = "Staff">Staff</option>
+        </select>
+        <button type="submit">Login</button>
+    </form>
+    <p>&copy; IIT Goa</p>
+</div>    
+</body>
+</html>
