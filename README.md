@@ -13,4 +13,4 @@ This web portal is developed using -
   4. Users will be notified by mail
   
 # Login
-<img src = "images/Login.jpg">
+<img src = "images/Login.png">
