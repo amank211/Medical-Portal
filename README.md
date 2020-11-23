@@ -14,10 +14,13 @@ This web portal is developed using -
   
 # Login
 <img src = "images/Login.png">
+
 # Register page
 <img src = "images/Register.png">
+
 # Schemas and relation(SQL)
 <img src = "images/Schema.png">
+
 # Scheduling table for appointmnets
 <img src = "images/Schedule.png">
 
