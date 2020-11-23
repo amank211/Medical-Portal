@@ -12,3 +12,5 @@ This web portal is developed using -
   3. Doctors can view their appointments and even reschedule them.
   4. Users will be notified by mail
   
+# Login
+<img src = "images/Login.jpg">
