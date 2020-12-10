@@ -19,9 +19,10 @@ This web portal is developed using -
 <img src = "images/Register.png">
 
 # Profile page
-<img src = "images/img22.png">
+<img src = "images/img21.png">
 
 # Scheduling table for appointmnets
+<img src = "images/img22.png">
 <img src = "images/Schedule.png">
 
 # Schemas and relation(SQL)
